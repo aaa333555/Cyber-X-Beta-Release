@@ -46,7 +46,7 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['+93172460588']
 global.ownertag = '+93172460588' //ur tag number
 global.botnumber = '+93172460588' //Add your Bot Number For Log
-global.botname = '_Raza🌈࿐' //ur bot name
+global.botname = 'AHD_Raza' //ur bot name
 global.ig = "https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr" //your theme url which will be displayed on whatsapp
 global.myweb = "https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr" //ur website to be displayed
 global.sc = 'https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr' //script link
@@ -73,10 +73,10 @@ global.alivemsg = "
 𒁂シ𝑄𝑈𝐸𝐸𝑁 ͕𝐿𝐼𝑆𝐴 𝐵𝑂𝑇͢ 𝑀𝐷̕シ𒁂"
 
 //BOT MEDIAS
-global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
-global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg") //ur thumb pic
 
 //DATA BASED
 
