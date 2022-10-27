@@ -60,17 +60,7 @@ global.aliveimg ="https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
 global.allmenuimg ="https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
 global.welcomeimg= "https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
 global.gbyeimg = "https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
-global.alivemsg = "
-🟤 *All bots allowed* ✔️🟤
-🟤___________________🟤
-🟤 *Type👉👉🏻  .Menu* 🟤     
-🟤____________________🟤
-🟤  *Read💱🧮CMD*    🟤
-🟤____________________🟤
-🟤 ※_*Search Your File*_🟤
-🟤🟤🟤🟤🟤🟤🟤🟤
-
-𒁂シ𝑄𝑈𝐸𝐸𝑁 ͕𝐿𝐼𝑆𝐴 𝐵𝑂𝑇͢ 𝑀𝐷̕シ𒁂"
+global.alivemsg = "*All bots allowed* ✔️"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg") //ur thumb pic
