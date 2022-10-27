@@ -46,7 +46,7 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['+93172460588']
 global.ownertag = '+93172460588' //ur tag number
 global.botnumber = '+93172460588' //Add your Bot Number For Log
-global.botname = 'AhMaD_Raza🌈࿐' //ur bot name
+global.botname = '_Raza🌈࿐' //ur bot name
 global.ig = "https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr" //your theme url which will be displayed on whatsapp
 global.myweb = "https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr" //ur website to be displayed
 global.sc = 'https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr' //script link
@@ -60,7 +60,17 @@ global.aliveimg ="https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
 global.allmenuimg ="https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
 global.welcomeimg= "https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
 global.gbyeimg = "https://i.ibb.co/D81FFh8/FB-IMG-16667049022742216.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "
+🟤 *All bots allowed* ✔️🟤
+🟤___________________🟤
+🟤 *Type👉👉🏻  .Menu* 🟤     
+🟤____________________🟤
+🟤  *Read💱🧮CMD*    🟤
+🟤____________________🟤
+🟤 ※_*Search Your File*_🟤
+🟤🟤🟤🟤🟤🟤🟤🟤
+
+𒁂シ𝑄𝑈𝐸𝐸𝑁 ͕𝐿𝐼𝑆𝐴 𝐵𝑂𝑇͢ 𝑀𝐷̕シ𒁂"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
