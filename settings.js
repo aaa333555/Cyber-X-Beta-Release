@@ -36,26 +36,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.vcardowner = ['+93172460588'] //ur owner number
+global.ownername = "AhMaD_Raza🌈࿐" //ur owner name
+global.ytname = "√β●●Tss§>" //ur yt chanel name
+global.socialm = "√β●●Tss§>" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['+93172460588']
+global.ownertag = '+93172460588' //ur tag number
+global.botnumber = '+93172460588' //Add your Bot Number For Log
+global.botname = 'AhMaD_Raza🌈࿐' //ur bot name
+global.ig = "https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr" //your theme url which will be displayed on whatsapp
+global.myweb = "https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr" //ur website to be displayed
+global.sc = 'https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr' //script link
+global.linkz = 'https://chat.whatsapp.com/IqIpmLHkzYt1rusQvZrzLr'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "AhMaD_Raza🌈࿐" //ur sticker watermark packname
+global.author = "AhMaD_Raza🌈࿐" //ur sticker watermark author
+global.footer = "®AhMaD_Raza🌈࿐"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
